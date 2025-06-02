@@ -1,0 +1,504 @@
+{
+  "state_capitals": [
+    {
+      "state": "Alabama",
+      "capital": "Montgomery",
+      "address": {
+        "street": "600 Dexter Ave",
+        "city": "Montgomery",
+        "state": "AL",
+        "zipCode": "36130"
+      }
+    },
+    {
+      "state": "Alaska",
+      "capital": "Juneau",
+      "address": {
+        "street": "120 4th St",
+        "city": "Juneau",
+        "state": "AK",
+        "zipCode": "99801"
+      }
+    },
+    {
+      "state": "Arizona",
+      "capital": "Phoenix",
+      "address": {
+        "street": "1700 W Washington St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zipCode": "85007"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "capital": "Little Rock",
+      "address": {
+        "street": "500 Woodlane St",
+        "city": "Little Rock",
+        "state": "AR",
+        "zipCode": "72201"
+      }
+    },
+    {
+      "state": "California",
+      "capital": "Sacramento",
+      "address": {
+        "street": "1315 10th St",
+        "city": "Sacramento",
+        "state": "CA",
+        "zipCode": "95814"
+      }
+    },
+    {
+      "state": "Colorado",
+      "capital": "Denver",
+      "address": {
+        "street": "200 E Colfax Ave",
+        "city": "Denver",
+        "state": "CO",
+        "zipCode": "80203"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "capital": "Hartford",
+      "address": {
+        "street": "210 Capitol Ave",
+        "city": "Hartford",
+        "state": "CT",
+        "zipCode": "06106"
+      }
+    },
+    {
+      "state": "Delaware",
+      "capital": "Dover",
+      "address": {
+        "street": "411 Legislative Ave",
+        "city": "Dover",
+        "state": "DE",
+        "zipCode": "19901"
+      }
+    },
+    {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "address": {
+        "street": "400 S Monroe St",
+        "city": "Tallahassee",
+        "state": "FL",
+        "zipCode": "32399"
+      }
+    },
+    {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "address": {
+        "street": "206 Washington St SW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30334"
+      }
+    },
+    {
+      "state": "Hawaii",
+      "capital": "Honolulu",
+      "address": {
+        "street": "415 S Beretania St",
+        "city": "Honolulu",
+        "state": "HI",
+        "zipCode": "96813"
+      }
+    },
+    {
+      "state": "Idaho",
+      "capital": "Boise",
+      "address": {
+        "street": "700 W Jefferson St",
+        "city": "Boise",
+        "state": "ID",
+        "zipCode": "83720"
+      }
+    },
+    {
+      "state": "Illinois",
+      "capital": "Springfield",
+      "address": {
+        "street": "401 S 2nd St",
+        "city": "Springfield",
+        "state": "IL",
+        "zipCode": "62701"
+      }
+    },
+    {
+      "state": "Indiana",
+      "capital": "Indianapolis",
+      "address": {
+        "street": "200 W Washington St",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zipCode": "46204"
+      }
+    },
+    {
+      "state": "Iowa",
+      "capital": "Des Moines",
+      "address": {
+        "street": "1007 E Grand Ave",
+        "city": "Des Moines",
+        "state": "IA",
+        "zipCode": "50319"
+      }
+    },
+    {
+      "state": "Kansas",
+      "capital": "Topeka",
+      "address": {
+        "street": "300 SW 10th Ave",
+        "city": "Topeka",
+        "state": "KS",
+        "zipCode": "66612"
+      }
+    },
+    {
+      "state": "Kentucky",
+      "capital": "Frankfort",
+      "address": {
+        "street": "700 Capital Ave",
+        "city": "Frankfort",
+        "state": "KY",
+        "zipCode": "40601"
+      }
+    },
+    {
+      "state": "Louisiana",
+      "capital": "Baton Rouge",
+      "address": {
+        "street": "900 N 3rd St",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zipCode": "70802"
+      }
+    },
+    {
+      "state": "Maine",
+      "capital": "Augusta",
+      "address": {
+        "street": "210 State St",
+        "city": "Augusta",
+        "state": "ME",
+        "zipCode": "04333"
+      }
+    },
+    {
+      "state": "Maryland",
+      "capital": "Annapolis",
+      "address": {
+        "street": "100 State Cir",
+        "city": "Annapolis",
+        "state": "MD",
+        "zipCode": "21401"
+      }
+    },
+    {
+      "state": "Massachusetts",
+      "capital": "Boston",
+      "address": {
+        "street": "24 Beacon St",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02133"
+      }
+    },
+    {
+      "state": "Michigan",
+      "capital": "Lansing",
+      "address": {
+        "street": "100 N Capitol Ave",
+        "city": "Lansing",
+        "state": "MI",
+        "zipCode": "48933"
+      }
+    },
+    {
+      "state": "Minnesota",
+      "capital": "Saint Paul",
+      "address": {
+        "street": "75 Rev Dr Martin Luther King Jr Blvd",
+        "city": "Saint Paul",
+        "state": "MN",
+        "zipCode": "55155"
+      }
+    },
+    {
+      "state": "Mississippi",
+      "capital": "Jackson",
+      "address": {
+        "street": "400 High St",
+        "city": "Jackson",
+        "state": "MS",
+        "zipCode": "39201"
+      }
+    },
+    {
+      "state": "Missouri",
+      "capital": "Jefferson City",
+      "address": {
+        "street": "201 W Capitol Ave",
+        "city": "Jefferson Cty",
+        "state": "MO",
+        "zipCode": "65101"
+      }
+    },
+    {
+      "state": "Montana",
+      "capital": "Helena",
+      "address": {
+        "street": "1301 E 6th Ave",
+        "city": "Helena",
+        "state": "MT",
+        "zipCode": "59620"
+      }
+    },
+    {
+      "state": "Nebraska",
+      "capital": "Lincoln",
+      "address": {
+        "street": "1445 K St",
+        "city": "Lincoln",
+        "state": "NE",
+        "zipCode": "68508"
+      }
+    },
+    {
+      "state": "Nevada",
+      "capital": "Carson City",
+      "address": {
+        "street": "101 N Carson St",
+        "city": "Carson City",
+        "state": "NV",
+        "zipCode": "89701"
+      }
+    },
+    {
+      "state": "New Hampshire",
+      "capital": "Concord",
+      "address": {
+        "street": "107 N Main St",
+        "city": "Concord",
+        "state": "NH",
+        "zipCode": "03301"
+      }
+    },
+    {
+      "state": "New Jersey",
+      "capital": "Trenton",
+      "address": {
+        "street": "125 W State St",
+        "city": "Trenton",
+        "state": "NJ",
+        "zipCode": "08608"
+      }
+    },
+    {
+      "state": "New Mexico",
+      "capital": "Santa Fe",
+      "address": {
+        "street": "490 Old Santa Fe Trl",
+        "city": "Santa Fe",
+        "state": "NM",
+        "zipCode": "87501"
+      }
+    },
+    {
+      "state": "New York",
+      "capital": "Albany",
+      "address": {
+        "street": "188 State St",
+        "city": "Albany",
+        "state": "NY",
+        "zipCode": "12224"
+      }
+    },
+    {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "address": {
+        "street": "1 E Edenton St",
+        "city": "Raleigh",
+        "state": "NC",
+        "zipCode": "27601"
+      }
+    },
+    {
+      "state": "North Dakota",
+      "capital": "Bismarck",
+      "address": {
+        "street": "600 E Boulevard Ave",
+        "city": "Bismarck",
+        "state": "ND",
+        "zipCode": "58505"
+      }
+    },
+    {
+      "state": "Ohio",
+      "capital": "Columbus",
+      "address": {
+        "street": "1 Capitol Sq",
+        "city": "Columbus",
+        "state": "OH",
+        "zipCode": "43215"
+      }
+    },
+    {
+      "state": "Oklahoma",
+      "capital": "Oklahoma City",
+      "address": {
+        "street": "2300 N Lincoln Blvd",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "zipCode": "73105"
+      }
+    },
+    {
+      "state": "Oregon",
+      "capital": "Salem",
+      "address": {
+        "street": "900 Court St NE",
+        "city": "Salem",
+        "state": "OR",
+        "zipCode": "97301"
+      }
+    },
+    {
+      "state": "Pennsylvania",
+      "capital": "Harrisburg",
+      "address": {
+        "street": "501 N 3rd St",
+        "city": "Harrisburg",
+        "state": "PA",
+        "zipCode": "17120"
+      }
+    },
+    {
+      "state": "Rhode Island",
+      "capital": "Providence",
+      "address": {
+        "street": "82 Smith St",
+        "city": "Providence",
+        "state": "RI",
+        "zipCode": "02903"
+      }
+    },
+    {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "address": {
+        "street": "1100 Gervais St",
+        "city": "Columbia",
+        "state": "SC",
+        "zipCode": "29201"
+      }
+    },
+    {
+      "state": "South Dakota",
+      "capital": "Pierre",
+      "address": {
+        "street": "500 E Capitol Ave",
+        "city": "Pierre",
+        "state": "SD",
+        "zipCode": "57501"
+      }
+    },
+    {
+      "state": "Tennessee",
+      "capital": "Nashville",
+      "address": {
+        "street": "600 Dr Martin L King Jr Blvd",
+        "city": "Nashville",
+        "state": "TN",
+        "zipCode": "37243"
+      }
+    },
+    {
+      "state": "Texas",
+      "capital": "Austin",
+      "address": {
+        "street": "1100 Congress Ave",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": "78701"
+      }
+    },
+    {
+      "state": "Utah",
+      "capital": "Salt Lake City",
+      "address": {
+        "street": "350 State St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zipCode": "84103"
+      }
+    },
+    {
+      "state": "Vermont",
+      "capital": "Montpelier",
+      "address": {
+        "street": "115 State St",
+        "city": "Montpelier",
+        "state": "VT",
+        "zipCode": "05633"
+      }
+    },
+    {
+      "state": "Virginia",
+      "capital": "Richmond",
+      "address": {
+        "street": "1000 Bank St",
+        "city": "Richmond",
+        "state": "VA",
+        "zipCode": "23218"
+      }
+    },
+    {
+      "state": "Washington",
+      "capital": "Olympia",
+      "address": {
+        "street": "416 Sid Snyder Ave SW",
+        "city": "Olympia",
+        "state": "WA",
+        "zipCode": "98504"
+      }
+    },
+    {
+      "state": "West Virginia",
+      "capital": "Charleston",
+      "address": {
+        "street": "1900 Kanawha Blvd E",
+        "city": "Charleston",
+        "state": "WV",
+        "zipCode": "25305"
+      }
+    },
+    {
+      "state": "Wisconsin",
+      "capital": "Madison",
+      "address": {
+        "street": "2 E Main St",
+        "city": "Madison",
+        "state": "WI",
+        "zipCode": "53703"
+      }
+    },
+    {
+      "state": "Wyoming",
+      "capital": "Cheyenne",
+      "address": {
+        "street": "200 W 24th St",
+        "city": "Cheyenne",
+        "state": "WY",
+        "zipCode": "82002"
+      }
+    }
+  ]
+}

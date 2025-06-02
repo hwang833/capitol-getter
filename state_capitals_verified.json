@@ -1,0 +1,452 @@
+[
+  {
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "original_address": "600 Dexter Ave, Montgomery, AL 36130",
+    "standardized_address": "Alabama State Capitol, 600, Dexter Avenue, Montgomery, Montgomery County, Alabama, 36104, United States",
+    "verified": true,
+    "latitude": 32.3777741,
+    "longitude": -86.3002857
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "original_address": "120 4th St, Juneau, AK 99801",
+    "standardized_address": "Alaska State Capitol, 120, 4th Street, Juneau, Alaska, 99801, United States",
+    "verified": true,
+    "latitude": 58.3021624,
+    "longitude": -134.4100853
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "original_address": "1700 W Washington St, Phoenix, AZ 85007",
+    "standardized_address": "Arizona State Executive Office, 1700, West Washington Street, Phoenix, Maricopa County, Arizona, 85007, United States",
+    "verified": true,
+    "latitude": 33.4481203,
+    "longitude": -112.0978012
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "original_address": "500 Woodlane St, Little Rock, AR 72201",
+    "standardized_address": "Arkansas State Capitol, 500, Woodlane Street, Little Rock, Big Rock Township, Pulaski County, Arkansas, 72201, United States",
+    "verified": true,
+    "latitude": 34.7466091,
+    "longitude": -92.2892042
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "original_address": "1315 10th St, Sacramento, CA 95814",
+    "standardized_address": "California State Capitol, 1315, 10th Street, Downtown, Sacramento, Sacramento County, California, 95814, United States",
+    "verified": true,
+    "latitude": 38.5765689,
+    "longitude": -121.4934011
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "original_address": "200 E Colfax Ave, Denver, CO 80203",
+    "standardized_address": "Presidents of the Senate Tablet, 200, East Colfax Avenue, Civic Center, Denver, Colorado, 80203, United States",
+    "verified": true,
+    "latitude": 39.7389574,
+    "longitude": -104.9848155
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "original_address": "210 Capitol Ave, Hartford, CT 06106",
+    "standardized_address": "210, Capitol Avenue, Elm Street Historic District, Frog Hollow, Hartford, Connecticut, 06106, United States",
+    "verified": true,
+    "latitude": 41.7641119,
+    "longitude": -72.6823114
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "original_address": "411 Legislative Ave, Dover, DE 19901",
+    "standardized_address": "Delaware State Capitol, 411, Legislative Avenue, Capitol Green, Dover, Kent County, Delaware, 19901, United States",
+    "verified": true,
+    "latitude": 39.1573179,
+    "longitude": -75.5197365
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "original_address": "400 S Monroe St, Tallahassee, FL 32399",
+    "standardized_address": "Florida Historic Capitol Museum, 400, South Monroe Street, All Saints, Tallahassee, Leon County, Florida, 32399, United States",
+    "verified": true,
+    "latitude": 30.4381653,
+    "longitude": -84.28135
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "original_address": "206 Washington St SW, Atlanta, GA 30334",
+    "standardized_address": "The Georgia State Capitol, 206, Washington Street Southwest, South Downtown, Atlanta, Fulton County, Georgia, 30334, United States",
+    "verified": true,
+    "latitude": 33.7490553,
+    "longitude": -84.3881711
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "original_address": "415 S Beretania St, Honolulu, HI 96813",
+    "standardized_address": "Hawaii State Capitol, 415, South Beretania Street, Downtown, Hawaii Capital Historic District, Honolulu, Honolulu County, Hawaii, 96813, United States",
+    "verified": true,
+    "latitude": 21.3073335,
+    "longitude": -157.8569903
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "original_address": "700 W Jefferson St, Boise, ID 83702",
+    "standardized_address": "Idaho State Capitol, 700, West Jefferson Street, Downtown, Boise, Ada County, Idaho, 83702, United States",
+    "verified": true,
+    "latitude": 43.6177695,
+    "longitude": -116.1996904
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "original_address": "401 S 2nd St, Springfield, IL 62701",
+    "standardized_address": "Illinois State Capitol, 401, South 2nd Street, Vinegar Hill, Springfield, Sangamon County, Illinois, 62701, United States",
+    "verified": true,
+    "latitude": 39.7984257,
+    "longitude": -89.654918
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "original_address": "200 W Washington St, Indianapolis, IN 46204",
+    "standardized_address": "Indiana State Capitol Building, 200, West Washington Street, Indianapolis, Marion, Indiana, 46204, United States",
+    "verified": true,
+    "latitude": 39.7686147,
+    "longitude": -86.1626183
+  },
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "original_address": "1007 E Grand Ave, Des Moines, IA 50319",
+    "standardized_address": "Iowa State Capitol, 1007, East Grand Avenue, Des Moines, Polk County, Iowa, 50319, United States",
+    "verified": true,
+    "latitude": 41.591205,
+    "longitude": -93.6038186
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "original_address": "300 SW 10th Ave, Topeka, KS 66612",
+    "standardized_address": "Kansas State Capitol, 300, Southwest 10th Avenue, Topeka, Shawnee County, Kansas, 66612, United States",
+    "verified": true,
+    "latitude": 39.048124,
+    "longitude": -95.6780165
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "original_address": "700 Capital Ave, Frankfort, KY 40601",
+    "standardized_address": "Capital Avenue, Frankfort, Franklin County, Kentucky, 40601, United States",
+    "verified": true,
+    "latitude": 38.1890124,
+    "longitude": -84.8752274
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "original_address": "900 N 3rd St, Baton Rouge, LA 70802",
+    "standardized_address": "Louisiana State Capitol, 900, North 3rd Street, Capitol Park Complex, Downtown Development District, Baton Rouge, East Baton Rouge Parish, Louisiana, 70802, United States",
+    "verified": true,
+    "latitude": 30.4570571,
+    "longitude": -91.1873742
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "original_address": "210 State St, Augusta, ME 04330",
+    "standardized_address": "Maine State House, 210, State Street, Augusta, Kennebec County, Maine, 04330, United States",
+    "verified": true,
+    "latitude": 44.3071753,
+    "longitude": -69.7816941
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "original_address": "100 State Cir, Annapolis, MD 21401",
+    "standardized_address": "Maryland State House, 100, State Circle, Annapolis, Anne Arundel County, Maryland, 21401, United States",
+    "verified": true,
+    "latitude": 38.9788925,
+    "longitude": -76.4910687
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "original_address": "24 Beacon St, Boston, MA 02133",
+    "standardized_address": "Massachusetts State House, 24, Beacon Street, Beacon Hill, Boston, Suffolk County, Massachusetts, 02108, United States",
+    "verified": true,
+    "latitude": 42.358602,
+    "longitude": -71.0638751
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "original_address": "100 N Capitol Ave, Lansing, MI 48933",
+    "standardized_address": "Michigan State Capitol, 100, North Capitol Avenue, Downtown, Lansing, Ingham County, Michigan, 48933, United States",
+    "verified": true,
+    "latitude": 42.7336057,
+    "longitude": -84.5554583
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "original_address": "75 Rev Dr Martin Luther King Jr Blvd, Saint Paul, MN 55155",
+    "standardized_address": null,
+    "verified": false,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "original_address": "400 High St, Jackson, MS 39201",
+    "standardized_address": "400, High Street, Jackson, Hinds County, Mississippi, 39201, United States",
+    "verified": true,
+    "latitude": 32.305126,
+    "longitude": -90.182958
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "original_address": "201 W Capitol Ave, Jefferson City, MO 65101",
+    "standardized_address": "Missouri State Capitol, 201, West Capitol Avenue, Jefferson City, Cole County, Missouri, 65101, United States",
+    "verified": true,
+    "latitude": 38.5792198,
+    "longitude": -92.17298
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "original_address": "1301 E 6th Ave, Helena, MT 59601",
+    "standardized_address": "6th Avenue, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "verified": true,
+    "latitude": 46.5887476,
+    "longitude": -112.0382273
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "original_address": "1445 K St, Lincoln, NE 68508",
+    "standardized_address": "Nebraska State Capitol, 1445, K Street, Original Lincoln, Lincoln, Lancaster County, Nebraska, 68508, United States",
+    "verified": true,
+    "latitude": 40.807998,
+    "longitude": -96.6997198
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "original_address": "101 N Carson St, Carson City, NV 89701",
+    "standardized_address": "101, North Carson Street, Carson City, Nevada, 89701, United States",
+    "verified": true,
+    "latitude": 39.164029,
+    "longitude": -119.766877
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "original_address": "107 N Main St, Concord, NH 03301",
+    "standardized_address": "New Hampshire State House, 107, North Main Street, Concord, Merrimack County, New Hampshire, 03301, United States",
+    "verified": true,
+    "latitude": 43.2068627,
+    "longitude": -71.5381542
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "original_address": "125 W State St, Trenton, NJ 08608",
+    "standardized_address": "125, West State Street, Central West, Trenton, Mercer County, New Jersey, 08608, United States",
+    "verified": true,
+    "latitude": 40.2206141,
+    "longitude": -74.7688133
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "original_address": "490 Old Santa Fe Trail, Santa Fe, NM 87501",
+    "standardized_address": "New Mexico State Capitol, 490, Old Santa Fe Trail, Barrio de Analco Historic District, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
+    "verified": true,
+    "latitude": 35.6823019,
+    "longitude": -105.939634
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "original_address": "State St. and Washington Ave, Albany, NY 12224",
+    "standardized_address": null,
+    "verified": false,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "original_address": "16 W Jones St, Raleigh, NC 27601",
+    "standardized_address": "North Carolina Legislative Building, 16, West Jones Street, Seaboard Station, Raleigh, Wake County, North Carolina, 27603, United States",
+    "verified": true,
+    "latitude": 35.7830202,
+    "longitude": -78.6389651
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "original_address": "600 E Boulevard Ave, Bismarck, ND 58505",
+    "standardized_address": "East Boulevard Avenue, Bismarck, Burleigh County, North Dakota, 58505, United States",
+    "verified": true,
+    "latitude": 46.8166291,
+    "longitude": -100.788538
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "original_address": "1 Capitol Square, Columbus, OH 43215",
+    "standardized_address": null,
+    "verified": false,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "original_address": "2300 N Lincoln Blvd, Oklahoma City, OK 73105",
+    "standardized_address": "North Lincoln Boulevard, Oklahoma City, Oklahoma County, Oklahoma, 73105, United States",
+    "verified": true,
+    "latitude": 35.5100333,
+    "longitude": -97.5031225
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "original_address": "900 Court St NE, Salem, OR 97301",
+    "standardized_address": "Oregon State Capitol, 900, Court Street Northeast, Salem, Marion County, Oregon, 97301, United States",
+    "verified": true,
+    "latitude": 44.9382743,
+    "longitude": -123.0307767
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "original_address": "501 N 3rd St, Harrisburg, PA 17120",
+    "standardized_address": "Pennsylvania State Capitol, 501, North 3rd Street, New Fox Ridge, Harrisburg, Dauphin County, Pennsylvania, 17120, United States",
+    "verified": true,
+    "latitude": 40.2643941,
+    "longitude": -76.8837375
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "original_address": "82 Smith St, Providence, RI 02903",
+    "standardized_address": "Rhode Island State Capitol Building, 82, Smith Street, Downtown, Providence, Providence County, Rhode Island, 02903, United States",
+    "verified": true,
+    "latitude": 41.8308956,
+    "longitude": -71.4149587
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "original_address": "1100 Gervais St, Columbia, SC 29208",
+    "standardized_address": "South Carolina State House, 1100, Gervais Street, The Vista, Columbia, Richland County, South Carolina, 29201, United States",
+    "verified": true,
+    "latitude": 34.0003435,
+    "longitude": -81.0330519
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "original_address": "500 E Capitol Ave, Pierre, SD 57501",
+    "standardized_address": "500, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "verified": true,
+    "latitude": 44.3661854,
+    "longitude": -100.3464285
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "original_address": "600 Dr. M.L.K. Jr Blvd, Nashville, TN 37243",
+    "standardized_address": null,
+    "verified": false,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "original_address": "1100 Congress Ave, Austin, TX 78701",
+    "standardized_address": "1100, Congress Avenue, Medical District, Austin, Travis County, Texas, 78701, United States",
+    "verified": true,
+    "latitude": 30.276485,
+    "longitude": -97.739768
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "original_address": "350 State St, Salt Lake City, UT 84103",
+    "standardized_address": "Utah State Capitol Building, 350, State Street, Marmalade District, Salt Lake City, Salt Lake County, Utah, 84103, United States",
+    "verified": true,
+    "latitude": 40.7774401,
+    "longitude": -111.8881972
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "original_address": "115 State St, Montpelier, VT 05633",
+    "standardized_address": "Vermont State Capitol, 115, State Street, Montpelier Historic District, Montpelier, Washington County, Vermont, 05602, United States",
+    "verified": true,
+    "latitude": 44.2626941,
+    "longitude": -72.5807647
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "original_address": "1000 Bank St, Richmond, VA 23219",
+    "standardized_address": "Virginia State Capitol, 1000, Bank Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+    "verified": true,
+    "latitude": 37.5388176,
+    "longitude": -77.4335575
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "original_address": "416 Sid Snyder Ave SW, Olympia, WA 98501",
+    "standardized_address": "Washington State Capitol, 416, Sid Snyder Avenue Southwest, Olympia, Thurston County, Washington, 98501, United States",
+    "verified": true,
+    "latitude": 47.0357617,
+    "longitude": -122.9048521
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "original_address": "1900 Kanawha Blvd E, Charleston, WV 25305",
+    "standardized_address": "West Virginia State Capitol, 1900, Kanawha Boulevard East, East End, Charleston, Kanawha County, West Virginia, 25305, United States",
+    "verified": true,
+    "latitude": 38.3363062,
+    "longitude": -81.6122744
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "original_address": "2 E Main St, Madison, WI 53703",
+    "standardized_address": "Wisconsin State Capitol, 2, East Main Street, First Settlement, Madison, Dane County, Wisconsin, 53703, United States",
+    "verified": true,
+    "latitude": 43.0746917,
+    "longitude": -89.3841658
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "original_address": "200 W 24th St, Cheyenne, WY 82001",
+    "standardized_address": "Wyoming State Capitol, 200, West 24th Street, Cheyenne, Laramie County, Wyoming, 82002, United States",
+    "verified": true,
+    "latitude": 41.1402682,
+    "longitude": -104.8202289
+  }
+]

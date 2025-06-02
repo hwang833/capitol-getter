@@ -1,0 +1,352 @@
+[
+  {
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "address": "600 Dexter Ave, Montgomery, AL 36130, USA",
+    "latitude": 32.3776962,
+    "longitude": -86.3005089
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "address": "120 4th St, Juneau, AK 99801, USA",
+    "latitude": 58.30198590000001,
+    "longitude": -134.4106947
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "address": "1700 W Washington St, Phoenix, AZ 85007, USA",
+    "latitude": 33.4475576,
+    "longitude": -112.0966357
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "address": "500 Woodlane St, Little Rock, AR 72201, USA",
+    "latitude": 34.7469598,
+    "longitude": -92.28904999999999
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "address": "1315 10th St, Sacramento, CA 95814, USA",
+    "latitude": 38.5767183,
+    "longitude": -121.4936946
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "address": "200 E Colfax Ave, Denver, CO 80203, USA",
+    "latitude": 39.7395186,
+    "longitude": -104.984796
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "address": "Connecticut State Capitol, 210 Capitol Ave, Hartford, CT 06106, USA",
+    "latitude": 41.7641979,
+    "longitude": -72.682467
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "address": "411 Legislative Ave, Dover, DE 19901, USA",
+    "latitude": 39.15731220000001,
+    "longitude": -75.5197345
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "address": "400 S Monroe St, Tallahassee, FL 32301, USA",
+    "latitude": 30.4381153,
+    "longitude": -84.2820497
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "address": "206 Washington St SW, Atlanta, GA 30334, USA",
+    "latitude": 33.7488468,
+    "longitude": -84.3882107
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "address": "Hawaii State Capitol, 415 S Beretania St., Honolulu, HI 96813, USA",
+    "latitude": 21.3071951,
+    "longitude": -157.8573977
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "address": "700 W Jefferson St, Boise, ID 83720, USA",
+    "latitude": 43.6177101,
+    "longitude": -116.199644
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "address": "401 S 2nd St, Springfield, IL 62701, USA",
+    "latitude": 39.7984132,
+    "longitude": -89.6549969
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "address": "Indiana State Capitol, 200 W Washington St, Indianapolis, IN 46204, USA",
+    "latitude": 39.7687106,
+    "longitude": -86.16285620000001
+  },
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "address": "Iowa State Capitol, Iowa State Capitol - West Capitol Terrace, 1007 E Grand Ave, Des Moines, IA 50319, USA",
+    "latitude": 41.5912567,
+    "longitude": -93.6034988
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "address": "300 SW 10th Ave, Topeka, KS 66612, USA",
+    "latitude": 39.0478713,
+    "longitude": -95.678091
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "address": "700 Capital Ave, Frankfort, KY 40601, USA",
+    "latitude": 38.1866325,
+    "longitude": -84.87511529999999
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "address": "900 N 3rd St, Baton Rouge, LA 70802, USA",
+    "latitude": 30.4570255,
+    "longitude": -91.1873845
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "address": "210 State St, Augusta, ME 04330, USA",
+    "latitude": 44.3063178,
+    "longitude": -69.7837073
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "address": "100 State Cir, Annapolis, MD 21401, USA",
+    "latitude": 38.978835,
+    "longitude": -76.49109969999999
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "address": "Massachusetts State House, 24 Beacon St, Boston, MA 02133, USA",
+    "latitude": 42.3587596,
+    "longitude": -71.063803
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "address": "Michigan State Capitol, 100 N Capitol Ave, Lansing, MI 48933, USA",
+    "latitude": 42.7336102,
+    "longitude": -84.5553485
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "address": "Minnesota State Capitol, 75 Rev Dr Martin Luther King Jr Boulevard., St Paul, MN 55155, USA",
+    "latitude": 44.95521859999999,
+    "longitude": -93.10224459999999
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "address": "400 High St, Jackson, MS 39201, USA",
+    "latitude": 32.3037008,
+    "longitude": -90.1821008
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "address": "201 W Capitol Ave, Jefferson City, MO 65101, USA",
+    "latitude": 38.5792994,
+    "longitude": -92.172829
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "address": "Montana State Capitol, 1301 E 6th Ave, Helena, MT 59601, USA",
+    "latitude": 46.5855819,
+    "longitude": -112.0177705
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "address": "1445 K St, Lincoln, NE 68508, USA",
+    "latitude": 40.8084991,
+    "longitude": -96.6999582
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "address": "Nevada State Capitol, 101 N Carson St, Carson City, NV 89701, USA",
+    "latitude": 39.1638662,
+    "longitude": -119.7660712
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "address": "107 N Main St, Concord, NH 03301, USA",
+    "latitude": 43.2069959,
+    "longitude": -71.5381999
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "address": "125 W State St, Trenton, NJ 08608, USA",
+    "latitude": 40.220546,
+    "longitude": -74.7699954
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "address": "490 Old Santa Fe Trail, Santa Fe, NM 87501, USA",
+    "latitude": 35.68239459999999,
+    "longitude": -105.9396949
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "address": "Washington Ave, Albany, NY, USA",
+    "latitude": 42.6754647,
+    "longitude": -73.7956611
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "address": "North Carolina State Legislative Building, 16 W Jones St, Raleigh, NC 27601, USA",
+    "latitude": 35.783151,
+    "longitude": -78.6389051
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "address": "North Dakota State Capitol, 600 E Boulevard Ave, Bismarck, ND 58501, USA",
+    "latitude": 46.8207526,
+    "longitude": -100.7819588
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "address": "Ohio State Capitol, 1 Capitol Sq, Columbus, OH 43215, USA",
+    "latitude": 39.96129699999999,
+    "longitude": -82.99934859999999
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "address": "2300 N Lincoln Blvd, Oklahoma City, OK 73105, USA",
+    "latitude": 35.4920953,
+    "longitude": -97.5034858
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "address": "900 Court St NE, Salem, OR 97301, USA",
+    "latitude": 44.938345,
+    "longitude": -123.0304789
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "address": "501 N 3rd St, Harrisburg, PA 17101, USA",
+    "latitude": 40.2646467,
+    "longitude": -76.8838565
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "address": "82 Smith St, Providence, RI 02903, USA",
+    "latitude": 41.8310574,
+    "longitude": -71.4149556
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "address": "1100 Gervais St, Columbia, SC 29201, USA",
+    "latitude": 34.0003095,
+    "longitude": -81.03310979999999
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "address": "500 E Capitol Ave, Pierre, SD 57501, USA",
+    "latitude": 44.3673028,
+    "longitude": -100.3461932
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "address": "600 Dr. M.L.K. Jr Blvd, Nashville, TN 37243, USA",
+    "latitude": 36.1658916,
+    "longitude": -86.7842861
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "address": "1100 Congress Ave., Austin, TX 78701, USA",
+    "latitude": 30.2747025,
+    "longitude": -97.7403448
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "address": "350 State St, Salt Lake City, UT 84103, USA",
+    "latitude": 40.7773717,
+    "longitude": -111.8878654
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "address": "115 State St, Montpelier, VT 05602, USA",
+    "latitude": 44.2625949,
+    "longitude": -72.5805544
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "address": "1000 Bank St, Richmond, VA 23219, USA",
+    "latitude": 37.5382493,
+    "longitude": -77.4347506
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "address": "Washington State Capitol Building, 416 Sid Snyder Ave SW, Olympia, WA 98504, USA",
+    "latitude": 47.0359422,
+    "longitude": -122.9044453
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "address": "Building 9, 1900 Kanawha Blvd E, Charleston, WV 25305, USA",
+    "latitude": 38.3377239,
+    "longitude": -81.614088
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "address": "2 E Main St, Madison, WI 53703, USA",
+    "latitude": 43.0749666,
+    "longitude": -89.3840985
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "address": "200 W 24th St, Cheyenne, WY 82001, USA",
+    "latitude": 41.1401733,
+    "longitude": -104.8205566
+  }
+]
